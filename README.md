@@ -3,6 +3,7 @@ simple discord bot with discord.js library
 
 this project is a personal practice project 
 
+<br>
 functionality : <br>
 1.if a message gets 3 of the same reacts the bot forwards the message to the specified starboard channel
 <br>
