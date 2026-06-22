@@ -1,0 +1,2 @@
+# ViestiBotti
+simple discord bot
